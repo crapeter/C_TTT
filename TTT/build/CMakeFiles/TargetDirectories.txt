@@ -1,0 +1,3 @@
+/home/crapeter/craig/c_projects/TTT/build/CMakeFiles/ttt.dir
+/home/crapeter/craig/c_projects/TTT/build/CMakeFiles/edit_cache.dir
+/home/crapeter/craig/c_projects/TTT/build/CMakeFiles/rebuild_cache.dir

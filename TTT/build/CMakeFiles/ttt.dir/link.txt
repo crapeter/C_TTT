@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ttt.dir/main.c.o CMakeFiles/ttt.dir/logic.c.o CMakeFiles/ttt.dir/ui.c.o -o ttt 
